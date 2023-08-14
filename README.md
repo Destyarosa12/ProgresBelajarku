@@ -29,8 +29,10 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
   * Belajar tipe data koleksi, seperti list, set, dan map.
 
-**20 Juni 2021**
-Belajar kelas Memulai Pemograman dengan Java. (Progres 100%)
+**20 Juni 2021**  
+
+Belajar kelas Memulai Pemograman dengan Java. (Progres 100%)  
+
 *Belajar konsep OOP(Object-Oriented Programming) untk mempermudah pengembangan sebuah program.
 
 *Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting.
