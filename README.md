@@ -5,22 +5,27 @@ pada program Dicoding Midyear Scholarship 2023 dan Dicoding for University
 Kelas yang telah saya pelajari diantaranya Belajar Dasar Manajemen Proyek, Dasar Visual Data, Pengenalan ke Logika PemRograman,
 Dasar Pemrograman untuk Menjadi Pengembang Software. 
 
-Dasar Manajemen Proyek
-- Pengenalan Manajemen Proyek
-- Siklus dan Metodologi Manajemen Proyek
-- Struktur dan budaya organisasi
-- Mengejar Karier Manajemen Proyek
+# PengalamanBelajar
 
- Dasar Visual Data
- - Tools dalam Visualisasi Data
- - Media Visualisasi Data
- - Pengenalan mengenai dasar spreadsheet
- - Cara mentransformasikan data ke visual
- - Belajar memvisualkan data ke dalam bentuk diagram.
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-Pengenalan ke Logika Pemrograman (Programming Logic 101)
-- Belajar gerbang logika
-- Mengenal gerbang logika AND, OR, NAND, NOR, dan sebagainya
-- Belajar tentang sub-modul Computational Thinking
 
+**14 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+
+**15 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+
+  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+
+  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
+
+  * Belajar tipe data koleksi, seperti list, set, dan map.
 
